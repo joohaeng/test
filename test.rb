@@ -12,6 +12,6 @@
 
 #doing things to correct issue #57: testing and fixing
 
-#serverfix
+#serverfix: finished
 
 # this is my "greate" fix
