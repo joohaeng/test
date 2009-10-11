@@ -7,3 +7,5 @@
 #doing things to correct issue #54: clean-up messages.
 
 #doing things to correct issue #55: shorten the loading time
+
+#doing things to correct issue #57: testing
