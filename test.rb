@@ -5,3 +5,5 @@
 #continuing things to finish issue #53
 
 #doing things to correct issue #54: clean-up messages.
+
+#doing things to correct issue #55: shorten the loading time
