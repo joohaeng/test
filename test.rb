@@ -8,4 +8,4 @@
 
 #doing things to correct issue #55: shorten the loading time
 
-#doing things to correct issue #57: testing
+#doing things to correct issue #57: testing and fixing
