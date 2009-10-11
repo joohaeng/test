@@ -9,3 +9,5 @@
 #doing things to correct issue #55: shorten the loading time
 
 #some minor change in local/test
+
+#doing things to correct issue #57: testing and fixing
